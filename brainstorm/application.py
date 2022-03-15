@@ -37,3 +37,4 @@ class Application(Factory):
 
     def maximize(self):
         self.window.maximize()
+
